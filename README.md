@@ -64,6 +64,16 @@
 
 # Linux
 
+* 精通正则表达式
+* 鸟哥的Linux私房菜（注：包括基础篇和服务器篇）
+* 深入Linux内核架构
+* Linux宝典
+* Linux常用命令大全
+* Linux防火墙
+* Linux高级程序设计
+* Linux环境编程
+* Linux命令详解词典
+
 # C语言
 
 * 经典C程序100例
@@ -89,11 +99,47 @@
 
 # 设计模式
 
+* 图解设计模式
+* 研磨设计模式
+* Head First设计模式
+
 # Java
+
+### Java 基础
+
+* 阿里巴巴Java开发手册
+* 码出高效
+* Head First Java
+* Java8实战
+* Java编程思想
+* Java并发编程的艺术
+* Java并发编程实践
+* Java从小白到大牛
+* Java核心技术(注：包括卷1和卷2)
+* 深入理解Java虚拟机
+
+### Java进阶
+
+* 代码大全
+* 代码整洁之道
+* 敏捷软件开发
+* Effective Java
+* Java性能优化权威指南
+
+### JavaWeb
+
+* 轻量级JavaEE企业应用实战
+* 深入分析JavaWeb技术内幕
+* 深入剖析Tomcat
+* Head First Servlet and JSP
+* Maven实战
+* Spring实战
 
 # 数据库
 
 # Go
+
+* 学习Go语言
 
 # 面试相关
 
@@ -101,6 +147,8 @@
 # 其他精选书籍
 
 # Git
+
+* 快速入门Git
 
 等等.....
 
