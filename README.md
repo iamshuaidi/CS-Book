@@ -176,7 +176,26 @@
 
 # 前端
 
+* 疯狂aJax讲义
+* Bootstrap实战
+* HTML5揭秘
+* HTML5与CSS3基础教程
+* HTML与CSS入门经典
+* JavaScript DOM编程艺术
+* JavaScript高级程序设计
+* JavaScript高效图形编程
+* jQuery高级编程
+* jQuery技术内幕
+* jQuery权威指南
+* Node.js开发指南
+
 # 人工智能
+
+* 贝叶斯思维统计建模的Python学习法
+* 机器学习实战
+* Python机器学习及实践
+* Tensorflow实战Google深度学习框架
+* TensorFlow实践与智能系统
 
 # 设计模式
 
@@ -217,6 +236,14 @@
 * Spring实战
 
 # 数据库
+
+* 高性能MySQL
+* 深入浅出MySQL
+* MongoDB权威指南
+* MySQL必知必会
+* MySQL技术内幕（注：实际书名是《MySQL技术内幕InnoDB存储引擎 》）
+* SQL查询的艺术
+* SQLite 权威指南
 
 # Go
 
