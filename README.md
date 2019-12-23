@@ -4,7 +4,7 @@
 
 ![微信公众号](https://img-blog.csdnimg.cn/20191212171626821.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L20wXzM3OTA3Nzk3,size_16,color_FFFFFF,t_70)
 
-> 注意：**书名**就是**关键词**哦，并且区分大小写。例如很多英文单词首字母都是大写的哦
+> 注意：**书名**就是**关键词**哦，并且区分大小写。例如很多英文单词首字母都是**大写**的哦。最准确的做法就在直接复制书名了
 
 # 目录
 
@@ -114,7 +114,34 @@
 
 ### 1、Python基础
 
+* 编程小白的第一本Python入门书
+
+* Python编程初学者指南
+
+* Python高级编程
+
+* Python高性能编程
+
+* Python核心编程
+
+* Python灰帽子
+
+* Python开发技术详解
+
+* Python开发实战
+
+* Python网络编程基础
+
+  Python学习手册
+
 ### 2、数据分析与爬虫
+
+- 数据科学入门
+- 用Python写网络爬虫
+- Python数据处理
+- Python数据分析实战
+- Python数据科学手册
+- Python数据可视化编程实战
 
 # Linux
 
@@ -197,8 +224,16 @@
 
 # 面试相关
 
+* 阿里巴巴Java面试问题大全
+* 程序员面试宝典
+* 大厂面试真题
+* Java面试突击
 
 # 其他精选书籍
+
+* 黑客与画家
+* 浪潮之巅
+* 码农翻身
 
 # Git
 
