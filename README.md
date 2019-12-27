@@ -2,7 +2,7 @@
 
 > 宣传一波我的微信公众号：我的公众号专注于写**数据结构+算法**，**计算机基础**（如计算机网络+操作系统+Linux+MySQL）等文章，欢迎广大用户扫一扫关注一波，一定让你有所收获。
 
-![我的公众号ID：di201805，搜索搜索这个ID即可找到](https://img-blog.csdnimg.cn/20191212171626821.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L20wXzM3OTA3Nzk3,size_16,color_FFFFFF,t_70)
+![我的公众号ID：di201805，搜索搜索这个ID即可找到](https://github.com/iamshuaidi/CS-Book/blob/master/%E5%85%AC%E4%BC%97%E5%8F%B7.jpg)
 
 # 目录
 
