@@ -207,7 +207,8 @@
 - 代码大全       [百度云下载链接](https://pan.baidu.com/s/1ehGZsgt-Rl47pVnNGUKWWw)  密码:juhq
 - 代码整洁之道       [百度云下载链接](https://pan.baidu.com/s/1fQf91LpvIWeJ-HH2QWKVog)  密码:hzn2
 - 敏捷软件开发       [百度云下载链接](https://pan.baidu.com/s/1HveePOP4fOynad9yrHKS_A)  密码:mmi4
-- Effective Java       [百度云下载链接](https://pan.baidu.com/s/1jvaEtd4H-ELdjY-I2uV76A)  密码:4dcx
+- Effective Java(中文)       [百度云下载链接](https://pan.baidu.com/s/1jvaEtd4H-ELdjY-I2uV76A)  密码:4dcx
+- Effective Java（英文）    [百度云下载链接](https://pan.baidu.com/s/1FOVL661If9yaJSjTpMw22g)  密码:bhu4
 - Java性能优化权威指南       [百度云下载链接](https://pan.baidu.com/s/1XCOWv6W5_rsCUM6Q4YIU9Q)  密码:054x
 
 ### JavaWeb
