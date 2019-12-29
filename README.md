@@ -45,7 +45,9 @@
 - 算法图解   [百度云下载链接](https://pan.baidu.com/s/1NFiwO-_Kzt-VxXxxteRCTA) 密码:7osf
 - 算法导论     [百度云下载链接](https://pan.baidu.com/s/1WHmnchIdy0FvMWLImPoIhQ)  密码:p2tp
 - 算法第四版       [百度云下载链接](https://pan.baidu.com/s/1WEliUJ_hQhl-OzWPtXcFdQ) 密码:rixw
-- 数据结构与算法分析（包括C语言，Python，Java三种版本       [百度云下载链接](https://pan.baidu.com/s/192NOUtVq8OVRVGF7z5VgcQ)  密码:6rfs
+- 数据结构与算法分析C语言描述版       [百度云下载链接](https://pan.baidu.com/s/1v4OsTTCd5SyC4WGarHZdcA)  密码:mn10  
+- 数据结构与算法分析Java语言描述版       [百度云下载链接](https://pan.baidu.com/s/1hZGhkErn9Bc17ZnN_ilgAw)  密码:917n
+- 数据结构与算法 Python语言描述_裘宗燕       [百度云下载链接](https://pan.baidu.com/s/1VjlQugLPIiN91bmISkJ3xg)  密码:96gw 
 - 剑指offer       [百度云下载链接](https://pan.baidu.com/s/1lUs2fVqxNMK8OOUrVSBCmw)  密码:a4rt
 - 计算机程序设计艺术1-3卷       [百度云下载链接](https://pan.baidu.com/s/1rxEqkKAogFpy1aNQnXUyBw)  密码:i3nh
 - 大话数据结构       [百度云下载链接](https://pan.baidu.com/s/1fTxelwIZa8pBmdnMW8PFYg)  密码:np2o
