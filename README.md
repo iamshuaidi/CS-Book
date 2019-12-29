@@ -94,22 +94,15 @@
 ### 1、Python基础
 
 - 编程小白的第一本Python入门书       [百度云下载链接](https://pan.baidu.com/s/128kxkHLrEAidlMt0E80SUg)  密码:s76b
-
 - Python编程初学者指南       [百度云下载链接](https://pan.baidu.com/s/1ytNZt1VMlbyREyc1L7ShYA)  密码:g696
-
 - Python高级编程       [百度云下载链接](https://pan.baidu.com/s/1-ItrNDj2R9Z-S1ZuEMlf1Q)  密码:qnuf
-
 - Python高性能编程       [百度云下载链接](https://pan.baidu.com/s/10wPoXPM83so2WvdlVnPZTw)  密码:d8s5
-
 - Python灰帽子       [百度云下载链接](https://pan.baidu.com/s/17hvNff7O5OsdRAB3_mBBcg)  密码:nfkt
-
 - Python开发技术详解       [百度云下载链接](https://pan.baidu.com/s/1cTVhr9BEmy79GbKq41qQ5A)  密码:z0av
-
 - Python开发实战       [百度云下载链接](https://pan.baidu.com/s/1AFgXTjEQyBf6SP2CCniA1A)  密码:ee5x
-
 - Python网络编程基础       [百度云下载链接](https://pan.baidu.com/s/1qBpXTD3Ll6p2KAv0RAkKHQ)  密码:m15q
-
-  Python学习手册       [百度云下载链接](https://pan.baidu.com/s/18DsRhIawELjVGGDSTRvhYA)  密码:0yqf
+- Python学习手册       [百度云下载链接](https://pan.baidu.com/s/18DsRhIawELjVGGDSTRvhYA)  密码:0yqf
+- 精通Scrapy网络爬虫
 
 ### 2、数据分析与爬虫
 
@@ -119,6 +112,7 @@
 - Python数据分析实战       [百度云下载链接](https://pan.baidu.com/s/13yQ4hvUf4EzgGAuKQUM4ag)  密码:idn1
 - Python数据科学手册       [百度云下载链接](https://pan.baidu.com/s/1Y1KnyILg-0ZWJbIKNzNsmw)  密码:16u0
 - Python数据可视化编程实战       [百度云下载链接](https://pan.baidu.com/s/1BKIzCFI_5CzLXAQpRQCp8Q)  密码:i7hp
+- 精通Scrapy网络爬虫       [百度云下载链接](https://pan.baidu.com/s/1FuAE8Kq3YItoO4yNba5ckA)  密码:jb6u
 
 # Linux
 
@@ -131,6 +125,7 @@
 - Linux高级程序设计       [百度云下载链接](https://pan.baidu.com/s/11y7OBER2c9mcbsCtjTRsrA)  密码:d4wq
 - Linux环境编程       [百度云下载链接](https://pan.baidu.com/s/1sl-6GF3onLPRXeJDVedwqA)  密码:xudv
 - Linux命令详解词典       [百度云下载链接](https://pan.baidu.com/s/1CSlkxcBRBPsHHRYOrQpfSw)  密码:yxuz
+- 汇编语言基于linux环境第3版       [百度云下载链接](https://pan.baidu.com/s/13gwNQvvG5fRYxo83zMb2VA)  密码:yq75
 
 # C语言
 
@@ -182,6 +177,7 @@
 - Python机器学习及实践       [百度云下载链接](https://pan.baidu.com/s/1IIUCLptUPsQvLRbUEqJaTA)  密码:qq3q
 - Tensorflow实战Google深度学习框架       [百度云下载链接](https://pan.baidu.com/s/1CJIJmNvZHx2rtkUDH-zrIg)  密码:12kj
 - TensorFlow实践与智能系统       [百度云下载链接](https://pan.baidu.com/s/1EYFAmV8z9hvTX06Hwf1MsA)  密码:e668
+- 深度学习_中文版       [百度云下载链接](https://pan.baidu.com/s/1FH9vlBBBb-yvB26eFmKjQw)  密码:01xp
 
 # 设计模式
 
@@ -221,6 +217,7 @@
 - Head First Servlet and JSP       [百度云下载链接](https://pan.baidu.com/s/1036AnuSKhckNC_vqa5qjPw)  密码:v8b8
 - Maven实战       [百度云下载链接](https://pan.baidu.com/s/15DddRDQpR_KAOzg-HuuDvw)  密码:s0q9
 - Spring实战       [百度云下载链接](https://pan.baidu.com/s/1Y9J20oR38qVyQ4Z7Kh9KQw)  密码:40fb
+- Camel in Action       [百度云下载链接](https://pan.baidu.com/s/1300e_-sgpqAzl_2H1EPlJA)  密码:plyn
 
 # 数据库
 
