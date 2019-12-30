@@ -220,6 +220,10 @@
 - Spring实战       [百度云下载链接](https://pan.baidu.com/s/1Y9J20oR38qVyQ4Z7Kh9KQw)  密码:40fb
 - Camel in Action       [百度云下载链接](https://pan.baidu.com/s/1300e_-sgpqAzl_2H1EPlJA)  密码:plyn
 
+### Java工具
+
+- Java se 11中文 api [百度云下载链接](https://pan.baidu.com/s/11Qy-31eI1rDX5xicF4t5RA) 密码：nkjm
+
 # 数据库
 
 - 高性能MySQL       [百度云下载链接](https://pan.baidu.com/s/1_vXaan9KbIWAHEnyQnQFlg)  密码:gh5t
