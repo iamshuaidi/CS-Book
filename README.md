@@ -219,6 +219,7 @@
 - Maven实战       [百度云下载链接](https://pan.baidu.com/s/15DddRDQpR_KAOzg-HuuDvw)  密码:s0q9
 - Spring实战       [百度云下载链接](https://pan.baidu.com/s/1Y9J20oR38qVyQ4Z7Kh9KQw)  密码:40fb
 - Camel in Action       [百度云下载链接](https://pan.baidu.com/s/1300e_-sgpqAzl_2H1EPlJA)  密码:plyn
+- Spring 5 Recipes, 4th Edition     [百度云盘下载链接](https://pan.baidu.com/s/1QoFXYQeJbWtC4v39-F-fIQ)  密码:slt0
 
 ### Java工具
 
