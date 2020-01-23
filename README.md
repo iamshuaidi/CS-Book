@@ -29,6 +29,7 @@
   - [JavaWeb](#javaweb)
 - [数据库](#数据库)
 - [Go](#go)
+- [中间件](#中间件)
 - [面试相关](#面试相关)
 - [其他精选书籍](#其他精选书籍)
 - [Git](#git)
@@ -56,6 +57,7 @@
 - 编程珠玑       [百度云下载链接](https://pan.baidu.com/s/1ix17W5-CG4r5Wn8bF3erVQ)  密码:4oow
 - 编程之美       [百度云下载链接](https://pan.baidu.com/s/1y8SWiLipsKEzCulyxdbgGQ)  密码:4zme
 - 啊哈算法       [百度云下载链接](https://pan.baidu.com/s/1S6OTJlQtywaRvu4IA_ogCw)  密码:h4id
+- 程序员的算法趣题       [百度云下载链接](https://pan.baidu.com/s/1iIHm0kRlfwck3IQn-BUZZA)  密码:kk84
 
 # 计算机基础
 
@@ -63,7 +65,7 @@
 
 - 30天填自制操作系统       [百度云下载链接](https://pan.baidu.com/s/1QSIUlat1HpllNFMWY9WBzw)  密码:pxxr
 - 操作系统之哲学原理       [百度云下载链接](https://pan.baidu.com/s/1GEfALJhtJ2IJtjtKcLneKg)  密码:hua7
-- 程序是怎样跑起来的       [百度云下载链接](https://pan.baidu.com/s/1DZSavIK8ipUvk6dle67TOQ)  密码:kued
+- 程序是怎样跑起来的       [百度云下载链接](https://pan.baidu.com/s/1i_xDxT8QgA_x4kRHXEmPqg)  密码:pbvh
 - 深入理解计算机操作系统       [百度云下载链接](https://pan.baidu.com/s/1xrDC6wGAH7Yv3uuXzVUWxg)  密码:2toh
 - 现代操作系统       [百度云下载链接](https://pan.baidu.com/s/1QA0VZ20pA8giW6ax7AHQBA)  密码:huk2
 
@@ -85,6 +87,8 @@
 ### 计算机组成原理
 
 - 隐匿在计算机软硬件背后的语言       [百度云下载链接](https://pan.baidu.com/s/1gJCnChBTCZD07mm3IqCRwQ)  密码:6jiq
+- 大话计算机       [百度云下载链接](https://pan.baidu.com/s/1AakpZmD8hziokFnV0VSGFA)  密码:6j1o
+- 计算机是怎样跑起来的       [百度云下载链接](https://pan.baidu.com/s/1JIq3U8kNYohz0C3xnCk6EA)  密码:er12
 
 
 
@@ -237,6 +241,14 @@
 - Go web编程       [百度云下载链接](https://pan.baidu.com/s/1UQU7uWFSZb3ILob6b64ZeA)  密码:pyw3
 - C 程序设计语言第2版       [百度云下载链接](https://pan.baidu.com/s/14NmKpWeBQ-vg6XzyvXTaeg)  密码:3yza
 
+
+
+# 中间件
+
+* redis实战          [百度云下载链接](https://pan.baidu.com/s/13Y-Uk2HmV1Y5TLec4J20aQ)  密码:ro48
+
+
+
 # 面试相关
 
 - 阿里巴巴Java面试问题大全       [百度云下载链接](https://pan.baidu.com/s/1tbd8N88ae-O0xsm6RTJIag)  密码:8xzm
@@ -249,6 +261,7 @@
 - 黑客与画家       [百度云下载链接](https://pan.baidu.com/s/1lEyXNK8W4a0vStIPHOihiA)  密码:uux2
 - 浪潮之巅       [百度云下载链接](https://pan.baidu.com/s/1NIeoGRy6s1lYB3WdlhA8lQ)  密码:xr66
 - 码农翻身       [百度云下载链接](https://pan.baidu.com/s/1zEmECfVe4rFRsQL8goN4nA)  密码:x0ik
+- 奔跑吧，程序员：从零开始打造产品、技术和团队 [百度云下载链接](https://pan.baidu.com/s/1O0QkDLuJMasimr9XZsNSmA)  密码:jxvj
 
 # Git
 
