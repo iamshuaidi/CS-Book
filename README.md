@@ -31,12 +31,10 @@
 - [Go](#go)
 - [中间件](#中间件)
 - [面试相关](#面试相关)
-- [其他精选书籍](#其他精选书籍)
+- [未分类书籍](#未分类书籍)
 - [Git](#git)
 - [没找到请看这里](#没找到请看这里)
 - [免责声明](#免责声明)
-
-
 
 
 
@@ -168,7 +166,7 @@
 - HTML5与CSS3基础教程       [百度云下载链接](https://pan.baidu.com/s/1ddq73aQviPIM9ci6xhAt_g)  密码:2wxm
 - HTML与CSS入门经典       [百度云下载链接](https://pan.baidu.com/s/1fJaT9zqQOWxIB8Mkn_vQqQ)  密码:tsgm
 - JavaScript DOM编程艺术       [百度云下载链接](https://pan.baidu.com/s/1Dx3z3D9DYbWyebr3V86cLA)  密码:gsbt
-- JavaScript高级程序设计       [百度云下载链接](https://pan.baidu.com/s/1Sbbh8q6d5Yi6CiUsG6-OYg)  密码:8ds3
+- JavaScript高级程序设计       [百度云下载链接](https://pan.baidu.com/s/1NYkMExeBSG1SBVfT7nUkWQ)  密码:wbw0
 - JavaScript高效图形编程       [百度云下载链接](https://pan.baidu.com/s/1jLPlJ1tpnF6LOkhhUgcF6w)  密码:tab1
 - jQuery高级编程       [百度云下载链接](https://pan.baidu.com/s/1XSvgFixfnm_9YxytuuSvLA)  密码:qwtr
 - jQuery技术内幕       [百度云下载链接](https://pan.baidu.com/s/11sUqBmGJWlHOB29WtZjf2A)  密码:pglf
@@ -256,7 +254,7 @@
 - 大厂面试真题       [百度云下载链接](https://pan.baidu.com/s/1631WVa3Fhf2wOpdZX_ou2g)  密码:gu92
 - Java面试突击       [百度云下载链接](https://pan.baidu.com/s/1bAZS8KiUNF0lOt-R0UBOyg)  密码:h44t
 
-# 其他精选书籍
+# 未分类书籍
 
 - 黑客与画家       [百度云下载链接](https://pan.baidu.com/s/1lEyXNK8W4a0vStIPHOihiA)  密码:uux2
 - 浪潮之巅       [百度云下载链接](https://pan.baidu.com/s/1NIeoGRy6s1lYB3WdlhA8lQ)  密码:xr66
