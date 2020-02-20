@@ -197,7 +197,7 @@
 - Head First Java       [百度云下载链接](https://pan.baidu.com/s/1AhFSveV6DE3nWMpBUhFcMw)  密码:d5ll
 - Java8实战       [百度云下载链接](https://pan.baidu.com/s/1ni-dF2XqmMFwI5pBPo3P2A)  密码:lvmb
 - Java编程思想       [百度云下载链接](https://pan.baidu.com/s/1cqF8lcDdMoV3g2OLxQCUKg)  密码:0add
-- Java并发编程的艺术       [百度云下载链接](https://pan.baidu.com/s/1N3aSnY8rZxQLTbnUwIk5yQ)  密码:vn74
+- Java并发编程的艺术       [百度云下载链接](https://pan.baidu.com/s/1nl69k3y1wu7wxbVNdzV18A)    密码:92jj
 - Java并发编程实践       [百度云下载链接](https://pan.baidu.com/s/1Bk47A0tLXUv1wVQjJlxd6Q)  密码:i6w9
 - Java从小白到大牛       [百度云下载链接](https://pan.baidu.com/s/1qDLSzWrkSVu91KcrBN5fKQ)  密码:9auc
 - Java核心技术1-2卷       [百度云下载链接](https://pan.baidu.com/s/1t9YFSagCpVC7N4pK6aNuGQ)  密码:tr3s
