@@ -257,7 +257,6 @@
 
 - 黑客与画家       [百度云下载链接](https://pan.baidu.com/s/1lEyXNK8W4a0vStIPHOihiA)  密码:uux2
 - 浪潮之巅       [百度云下载链接](https://pan.baidu.com/s/1NIeoGRy6s1lYB3WdlhA8lQ)  密码:xr66
-- 码农翻身       [百度云下载链接](https://pan.baidu.com/s/1zEmECfVe4rFRsQL8goN4nA)  密码:x0ik
 - 奔跑吧，程序员：从零开始打造产品、技术和团队 [百度云下载链接](https://pan.baidu.com/s/1O0QkDLuJMasimr9XZsNSmA)  密码:jxvj
 
 # Git
