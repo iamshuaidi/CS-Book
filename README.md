@@ -1,3 +1,14 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-180456065-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-180456065-1');
+</script>
+
+
 计算机类的书籍那么贵，作为一个几个小时看完一本书且机不离身的程序员，天天买纸质书是不可能的了，所以对电子书的需求量还是挺多的。为了方便广大的小伙伴也能方便找到对应的电子书，我花费洪荒之力从各个搜索网站收集了几百本常用的电子书。
 
 > **重要说明**：**如果目录无法跳转的话，直接拉下去就可以了**，这些书籍都是在同一个页面的，我只是方便大家找到对应的，弄了一个**页内目录**，不过有部分读者反馈他跳转不了（手机是绝对跳转不了的了）。
