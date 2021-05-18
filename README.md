@@ -41,12 +41,12 @@
 - [免责声明](#免责声明)
 
 # 大神刷题笔记
-- Leetcode 1300道算法题解    [蓝奏云直接下载(推荐)](https://wws.lanzous.com/iQUI9kdrgqh)
-- labuladong 的算法小抄      [蓝奏云直接下载(推荐)](https://wws.lanzous.com/i44Bnkdrkgb)
-- 阿里巴巴Java面试问题大全    [蓝奏云直接下载(推荐)](https://wws.lanzous.com/iZIZlkbi45i)       [百度云下载链接](https://pan.baidu.com/s/1tbd8N88ae-O0xsm6RTJIag)  密码:8xzm
-- 程序员面试宝典       [蓝奏云直接下载(推荐)](https://wws.lanzous.com/ixTE0kbi4ad)  [百度云下载链接](https://pan.baidu.com/s/1LilCd-QIcVgZ1uQyFWMaWw)  密码:ko62
-- 大厂面试真题       [蓝奏云直接下载(推荐)](https://wws.lanzous.com/idfFXkbi4cf)   [百度云下载链接](https://pan.baidu.com/s/1631WVa3Fhf2wOpdZX_ou2g)  密码:gu92
-- Java面试突击       [蓝奏云直接下载(推荐)](https://wws.lanzous.com/izYukkbi4gj) [百度云下载链接](https://pan.baidu.com/s/1bAZS8KiUNF0lOt-R0UBOyg)  密码:h44t
+- Leetcode 1300道算法题解    [蓝奏云直接下载(推荐)](https://wws.lanzoui.com/iQUI9kdrgqh)
+- labuladong 的算法小抄      [蓝奏云直接下载(推荐)](https://wws.lanzoui.com/i44Bnkdrkgb)
+- 阿里巴巴Java面试问题大全    [蓝奏云直接下载(推荐)](https://wws.lanzoui.com/iZIZlkbi45i)       [百度云下载链接](https://pan.baidu.com/s/1tbd8N88ae-O0xsm6RTJIag)  密码:8xzm
+- 程序员面试宝典       [蓝奏云直接下载(推荐)](https://wws.lanzoui.com/ixTE0kbi4ad)  [百度云下载链接](https://pan.baidu.com/s/1LilCd-QIcVgZ1uQyFWMaWw)  密码:ko62
+- 大厂面试真题       [蓝奏云直接下载(推荐)](https://wws.lanzoui.com/idfFXkbi4cf)   [百度云下载链接](https://pan.baidu.com/s/1631WVa3Fhf2wOpdZX_ou2g)  密码:gu92
+- Java面试突击       [蓝奏云直接下载(推荐)](https://wws.lanzoui.com/izYukkbi4gj) [百度云下载链接](https://pan.baidu.com/s/1bAZS8KiUNF0lOt-R0UBOyg)  密码:h44t
 
 # 数据结构与算法相关书籍
 
