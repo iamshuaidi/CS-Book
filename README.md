@@ -71,32 +71,32 @@
 
 ### 操作系统
 
-- 30天填自制操作系统       [百度云下载链接](https://pan.baidu.com/s/1QSIUlat1HpllNFMWY9WBzw)  密码:pxxr
-- 操作系统之哲学原理       [百度云下载链接](https://pan.baidu.com/s/1GEfALJhtJ2IJtjtKcLneKg)  密码:hua7
-- 程序是怎样跑起来的       [百度云下载链接](https://pan.baidu.com/s/1i_xDxT8QgA_x4kRHXEmPqg)  密码:pbvh
-- 深入理解计算机操作系统       [百度云下载链接](https://pan.baidu.com/s/1xrDC6wGAH7Yv3uuXzVUWxg)  密码:2toh
-- 现代操作系统       [百度云下载链接](https://pan.baidu.com/s/1QA0VZ20pA8giW6ax7AHQBA)  密码:huk2
+- 30天填自制操作系统       [蓝奏云直接下载(推荐)](https://wws.lanzoui.com/imNjdkggipa)   [百度云下载链接](https://pan.baidu.com/s/1QSIUlat1HpllNFMWY9WBzw)  密码:pxxr
+- 操作系统之哲学原理       [蓝奏云直接下载(推荐)](https://wws.lanzoui.com/i0g2nkggisd)    [百度云下载链接](https://pan.baidu.com/s/1GEfALJhtJ2IJtjtKcLneKg)  密码:hua7
+- 程序是怎样跑起来的       [蓝奏云直接下载(推荐)](https://wws.lanzoui.com/iLBQEkggixi)    [百度云下载链接](https://pan.baidu.com/s/1i_xDxT8QgA_x4kRHXEmPqg)  密码:pbvh
+- 深入理解计算机操作系统    [百度云下载链接](https://pan.baidu.com/s/1xrDC6wGAH7Yv3uuXzVUWxg)  密码:2toh
+- 现代操作系统       [蓝奏云直接下载(推荐)](https://wws.lanzoui.com/ih5Lkkggj9a)   [百度云下载链接](https://pan.baidu.com/s/1QA0VZ20pA8giW6ax7AHQBA)  密码:huk2
 
 
 
 ### 汇编语言
 
-- 汇编语言（注：这边是王爽写的，我觉得写的很好，适合入门）       [百度云下载链接](https://pan.baidu.com/s/1kZLH0dW6Y37S-WCLNV309A)  密码:qea3
+- 汇编语言（注：这边是王爽写的，我觉得写的很好，适合入门）      [蓝奏云直接下载(推荐)](https://wws.lanzoui.com/iDjtxpbhgrg)   [百度云下载链接](https://pan.baidu.com/s/1kZLH0dW6Y37S-WCLNV309A)  密码:qea3
 
 ### 计算机网络
 
-- 计算机网络：自顶向下       [百度云下载链接](https://pan.baidu.com/s/18X_L2RINmtLK9g0Ki2GiFw)  密码:l77d
-- 图解HTTP       [百度云下载链接](https://pan.baidu.com/s/1NEAK2PH_4JzPY454QvmmsQ)  密码:b42z
-- 图解TC/IP       [百度云下载链接](https://pan.baidu.com/s/1FJru4ppyxBhx_J3pk8rpvA)  密码:5k3x
-- 网络是怎样连接的       [百度云下载链接](https://pan.baidu.com/s/1HhE9MoC4rp5NSvyWOtk_hw)  密码:g983
-- HTTP权威指南       [百度云下载链接](https://pan.baidu.com/s/1b2fIsmdt9ANVMcqU97t6kw)  密码:tqj8
-- UNIX网络编程       [百度云下载链接](https://pan.baidu.com/s/1vXbj7OLsouVFH4DCIMqF3w)  密码:4buy
+- 计算机网络：自顶向下     [蓝奏云直接下载(推荐)](https://wws.lanzoui.com/iVnE7p837kd)  [百度云下载链接](https://pan.baidu.com/s/18X_L2RINmtLK9g0Ki2GiFw)  密码:l77d
+- 图解HTTP      [蓝奏云直接下载(推荐)](https://wws.lanzoui.com/ih08zp83k5g) [百度云下载链接](https://pan.baidu.com/s/1NEAK2PH_4JzPY454QvmmsQ)  密码:b42z
+- 图解TC/IP     [蓝奏云直接下载(推荐)](https://wws.lanzoui.com/i1fnRp83swb)  [百度云下载链接](https://pan.baidu.com/s/1FJru4ppyxBhx_J3pk8rpvA)  密码:5k3x
+- 网络是怎样连接的   [蓝奏云直接下载(推荐)](https://wws.lanzoui.com/iF7Ihp83w9c)    [百度云下载链接](https://pan.baidu.com/s/1HhE9MoC4rp5NSvyWOtk_hw)  密码:g983
+- HTTP权威指南    [蓝奏云直接下载(推荐)](https://wws.lanzoui.com/i5R6Xp842cb)   [百度云下载链接](https://pan.baidu.com/s/1b2fIsmdt9ANVMcqU97t6kw)  密码:tqj8
+- UNIX网络编程    [蓝奏云直接下载(推荐)](https://wws.lanzoui.com/imEtFp847hg)   [百度云下载链接](https://pan.baidu.com/s/1vXbj7OLsouVFH4DCIMqF3w)  密码:4buy
 
 ### 计算机组成原理
 
-- 隐匿在计算机软硬件背后的语言       [百度云下载链接](https://pan.baidu.com/s/1gJCnChBTCZD07mm3IqCRwQ)  密码:6jiq
-- 大话计算机       [百度云下载链接](https://pan.baidu.com/s/1AakpZmD8hziokFnV0VSGFA)  密码:6j1o
-- 计算机是怎样跑起来的       [百度云下载链接](https://pan.baidu.com/s/1JIq3U8kNYohz0C3xnCk6EA)  密码:er12
+- 隐匿在计算机软硬件背后的语言    [蓝奏云直接下载(推荐)](https://wws.lanzoui.com/ipiSbpdpnef)   [百度云下载链接](https://pan.baidu.com/s/1gJCnChBTCZD07mm3IqCRwQ)  密码:6jiq
+- 大话计算机     [蓝奏云直接下载(推荐)](https://wws.lanzoui.com/i6FNTpdq3qd)  [百度云下载链接](https://pan.baidu.com/s/1AakpZmD8hziokFnV0VSGFA)  密码:6j1o
+- 计算机是怎样跑起来的    [蓝奏云直接下载(推荐)](https://wws.lanzoui.com/ivIwApdq4ad)   [百度云下载链接](https://pan.baidu.com/s/1JIq3U8kNYohz0C3xnCk6EA)  密码:er12
 
 
 
