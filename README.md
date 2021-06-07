@@ -239,13 +239,13 @@
 
 # 数据库
 
-- 高性能MySQL       [百度云下载链接](https://pan.baidu.com/s/1_vXaan9KbIWAHEnyQnQFlg)  密码:gh5t
+- 高性能MySQL    [蓝奏云高速下载（推荐）](https://wws.lanzoui.com/iPYRqpwxzgb)  [百度云下载链接](https://pan.baidu.com/s/1_vXaan9KbIWAHEnyQnQFlg)  密码:gh5t
 - 深入浅出MySQL       [百度云下载链接](https://pan.baidu.com/s/1gWJcwszv3CnjIRMzy--_rw)  密码:ju0h
-- MongoDB权威指南       [百度云下载链接](https://pan.baidu.com/s/1LO1ACpRDi7n0i9Q7nLooqg)  密码:llvx
-- MySQL必知必会       [百度云下载链接](https://pan.baidu.com/s/1IWeqx7IQGc0sY5bJ9WtyMA)  密码:f1v9
-- MySQL技术内幕InnoDB存储引擎        [百度云下载链接](https://pan.baidu.com/s/1fLL3GXn_Hp6DdEnHXcBFJQ)  密码:6g04）
+- MongoDB权威指南   [蓝奏云高速下载（推荐）](https://wws.lanzoui.com/iFwiApwy06h)    [百度云下载链接](https://pan.baidu.com/s/1LO1ACpRDi7n0i9Q7nLooqg)  密码:llvx
+- MySQL必知必会    [蓝奏云高速下载（推荐）](https://wws.lanzoui.com/ixcrVpwwe5i)    [百度云下载链接](https://pan.baidu.com/s/1IWeqx7IQGc0sY5bJ9WtyMA)  密码:f1v9
+- MySQL技术内幕InnoDB存储引擎   [蓝奏云高速下载（推荐）](https://wws.lanzoui.com/iwWcFpwwb7c)      [百度云下载链接](https://pan.baidu.com/s/1fLL3GXn_Hp6DdEnHXcBFJQ)  密码:6g04）
 - SQL查询的艺术       [百度云下载链接](https://pan.baidu.com/s/1PfE3oLfmQN8Xtdj-08L--A)  密码:ndcv
-- SQLite 权威指南       [百度云下载链接](https://pan.baidu.com/s/1BqFp4W_I0Wwn87fKrCpB8A)  密码:ex3h
+- SQLite 权威指南   [蓝奏云高速下载（推荐）](https://wws.lanzoui.com/icTHApwy0de)    [百度云下载链接](https://pan.baidu.com/s/1BqFp4W_I0Wwn87fKrCpB8A)  密码:ex3h
 
 # Go
 
