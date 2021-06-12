@@ -50,21 +50,21 @@
 
 # 数据结构与算法相关书籍
 
-- 挑战程序设计竞赛       [百度云下载链接](https://pan.baidu.com/s/1diObrFpHKm4r-XyTp4cGAQ)  密码:mxn7
+- 挑战程序设计竞赛   [蓝奏云直接下载(推荐)](https://wws.lanzoui.com/iULENn35iaj)    [百度云下载链接](https://pan.baidu.com/s/1diObrFpHKm4r-XyTp4cGAQ)  密码:mxn7
 - Java数据结构和算法     [百度云下载链接](https://pan.baidu.com/s/1vD9CQVwnWMfqSaEmn8Dudw ) 密码:lpym
-- 算法图解   [百度云下载链接](https://pan.baidu.com/s/1NFiwO-_Kzt-VxXxxteRCTA) 密码:7osf
+- 算法图解 [蓝奏云直接下载(推荐)](https://wws.lanzoui.com/iq9qbn35evg)  [百度云下载链接](https://pan.baidu.com/s/1NFiwO-_Kzt-VxXxxteRCTA) 密码:7osf
 - 算法导论     [百度云下载链接](https://pan.baidu.com/s/1WHmnchIdy0FvMWLImPoIhQ)  密码:p2tp
 - 算法第四版       [百度云下载链接](https://pan.baidu.com/s/1WEliUJ_hQhl-OzWPtXcFdQ) 密码:rixw
-- 数据结构与算法分析C语言描述版       [百度云下载链接](https://pan.baidu.com/s/1v4OsTTCd5SyC4WGarHZdcA)  密码:mn10  
-- 数据结构与算法分析Java语言描述版       [百度云下载链接](https://pan.baidu.com/s/1hZGhkErn9Bc17ZnN_ilgAw)  密码:917n
-- 数据结构与算法 Python语言描述_裘宗燕       [百度云下载链接](https://pan.baidu.com/s/1VjlQugLPIiN91bmISkJ3xg)  密码:96gw 
-- 剑指offer       [百度云下载链接](https://pan.baidu.com/s/1lUs2fVqxNMK8OOUrVSBCmw)  密码:a4rt
+- 数据结构与算法分析C语言描述版   [蓝奏云直接下载(推荐)](https://wws.lanzoui.com/iaxQMn35ehc)    [百度云下载链接](https://pan.baidu.com/s/1v4OsTTCd5SyC4WGarHZdcA)  密码:mn10  
+- 数据结构与算法分析Java语言描述版  [蓝奏云直接下载(推荐)](https://wws.lanzoui.com/ixqIbn35eqb)     [百度云下载链接](https://pan.baidu.com/s/1hZGhkErn9Bc17ZnN_ilgAw)  密码:917n
+- 数据结构与算法 Python语言描述_裘宗燕  [蓝奏云直接下载(推荐)](https://wws.lanzoui.com/imrUan35e3i)     [百度云下载链接](https://pan.baidu.com/s/1VjlQugLPIiN91bmISkJ3xg)  密码:96gw 
+- 剑指offer   [蓝奏云直接下载(推荐)](https://wws.lanzoui.com/itvXcn35daj)    [百度云下载链接](https://pan.baidu.com/s/1lUs2fVqxNMK8OOUrVSBCmw)  密码:a4rt
 - 计算机程序设计艺术1-3卷       [百度云下载链接](https://pan.baidu.com/s/1rxEqkKAogFpy1aNQnXUyBw)  密码:i3nh
-- 大话数据结构       [百度云下载链接](https://pan.baidu.com/s/1fTxelwIZa8pBmdnMW8PFYg)  密码:np2o
-- 程序员代码面试指南：IT 名企算法与数据结构题目最优解       [百度云下载链接](https://pan.baidu.com/s/1DhjBLEiORLRTiffpJnJq_g)  密码:20oh
-- 编程珠玑       [百度云下载链接](https://pan.baidu.com/s/1ix17W5-CG4r5Wn8bF3erVQ)  密码:4oow
-- 编程之美       [百度云下载链接](https://pan.baidu.com/s/1y8SWiLipsKEzCulyxdbgGQ)  密码:4zme
-- 啊哈算法       [百度云下载链接](https://pan.baidu.com/s/1S6OTJlQtywaRvu4IA_ogCw)  密码:h4id
+- 大话数据结构   [蓝奏云直接下载(推荐)](https://wws.lanzoui.com/ibUjTn35d1a)    [百度云下载链接](https://pan.baidu.com/s/1fTxelwIZa8pBmdnMW8PFYg)  密码:np2o
+- 程序员代码面试指南：IT 名企算法与数据结构题目最优解   [蓝奏云直接下载(推荐)](https://wws.lanzoui.com/iU3JXn35coh)    [百度云下载链接](https://pan.baidu.com/s/1DhjBLEiORLRTiffpJnJq_g)  密码:20oh
+- 编程珠玑   [蓝奏云直接下载(推荐)](https://wws.lanzoui.com/ioxwLn35c6j)    [百度云下载链接](https://pan.baidu.com/s/1ix17W5-CG4r5Wn8bF3erVQ)  密码:4oow
+- 编程之美   [蓝奏云直接下载(推荐)](https://wws.lanzoui.com/iExkhn35btg)    [百度云下载链接](https://pan.baidu.com/s/1y8SWiLipsKEzCulyxdbgGQ)  密码:4zme
+- 啊哈算法   [蓝奏云直接下载(推荐)](https://wws.lanzoui.com/iXPwkn35bmj)    [百度云下载链接](https://pan.baidu.com/s/1S6OTJlQtywaRvu4IA_ogCw)  密码:h4id
 - 程序员的算法趣题       [百度云下载链接](https://pan.baidu.com/s/1iIHm0kRlfwck3IQn-BUZZA)  密码:kk84
 
 # 计算机基础
