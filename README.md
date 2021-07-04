@@ -13,6 +13,17 @@
 
 欢迎各位小伙伴来我的网站玩耍呀，地址：https://www.iamshuaidi.com
 
+### 另外新增视频教程整理（持续更新）
+
+|                      算法与计算机基础                       |                        Java后端技术栈                        |                      前端开发                       |                         数据库相关                          |                           其他                            |
+| :---------------------------------------------------------: | :----------------------------------------------------------: | :-------------------------------------------------: | :---------------------------------------------------------: | :-------------------------------------------------------: |
+| [计网+计组+操作系统视频](https://www.iamshuaidi.com/?p=670) | [Java并发编程与高并发解决方案(完整)](https://www.iamshuaidi.com/?p=1793) | [ Vue 入门教程](https://www.iamshuaidi.com/?p=1829) | [MySQL性能优化（进阶）](https://www.iamshuaidi.com/?p=1797) |   [Linux入门到精通](https://www.iamshuaidi.com/?p=818)    |
+|    [直通BAT算法精讲](https://www.iamshuaidi.com/?p=821)     | [IntelliJ IDEA全套视频教程](https://www.iamshuaidi.com/?p=1820) |                                                     |                                                             |  [shell从入门到精通](https://www.iamshuaidi.com/?p=1800)  |
+|    [牛客网算法第四期](https://www.iamshuaidi.com/?p=826)    |  [尚学堂高琪Java300集](https://www.iamshuaidi.com/?p=1823)   |                                                     |                                                             | [翁恺--C语言程序设计](https://www.iamshuaidi.com/?p=2013) |
+|                                                             |     [ JavaWeb入门程](https://www.iamshuaidi.com/?p=1826)     |                                                     |                                                             |                                                           |
+
+
+
 - [大神刷题笔记](#大神刷题笔记)
 - [数据结构与算法相关书籍](#数据结构与算法相关书籍)
 - [计算机基础](#计算机基础)
