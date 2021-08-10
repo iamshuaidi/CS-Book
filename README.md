@@ -27,23 +27,24 @@
 - [大神刷题笔记](#大神刷题笔记)
 - [数据结构与算法相关书籍](#数据结构与算法相关书籍)
 - [计算机基础](#计算机基础)
-  - [操作系统](#操作系统)
-  - [汇编语言](#汇编语言)
-  - [计算机网络](#计算机网络)
-  - [计算机组成原理](#计算机组成原理)
+    - [操作系统](#操作系统)
+    - [汇编语言](#汇编语言)
+    - [计算机网络](#计算机网络)
+    - [计算机组成原理](#计算机组成原理)
 - [Python](#python)
-  - [1、Python基础](#1python基础)
-  - [2、数据分析与爬虫](#2数据分析与爬虫)
+    - [1、Python基础](#1python基础)
+    - [2、数据分析与爬虫](#2数据分析与爬虫)
 - [Linux](#linux)
 - [C语言](#c语言)
-- [C](#c)
+- [C++](#c)
 - [前端](#前端)
 - [人工智能](#人工智能)
 - [设计模式](#设计模式)
 - [Java](#java)
-  - [Java 基础](#java-基础)
-  - [Java进阶](#java进阶)
-  - [JavaWeb](#javaweb)
+    - [Java 基础](#java-基础)
+    - [Java进阶](#java进阶)
+    - [JavaWeb](#javaweb)
+    - [Java工具](#java工具)
 - [数据库](#数据库)
 - [Go](#go)
 - [中间件](#中间件)
@@ -245,7 +246,7 @@
 - Spring 5 Recipes, 4th Edition     [百度云盘下载链接](https://pan.baidu.com/s/1QoFXYQeJbWtC4v39-F-fIQ)  密码:slt0
 
 ### Java工具
-
+mySQL
 - Java se 11中文 api [百度云下载链接](https://pan.baidu.com/s/11Qy-31eI1rDX5xicF4t5RA) 密码：nkjm
 
 # 数据库
@@ -253,8 +254,8 @@
 - 高性能MySQL    [蓝奏云高速下载（推荐）](https://wws.lanzoui.com/iPYRqpwxzgb)  [百度云下载链接](https://pan.baidu.com/s/1_vXaan9KbIWAHEnyQnQFlg)  密码:gh5t
 - 深入浅出MySQL       [百度云下载链接](https://pan.baidu.com/s/1gWJcwszv3CnjIRMzy--_rw)  密码:ju0h
 - MongoDB权威指南   [蓝奏云高速下载（推荐）](https://wws.lanzoui.com/iFwiApwy06h)    [百度云下载链接](https://pan.baidu.com/s/1LO1ACpRDi7n0i9Q7nLooqg)  密码:llvx
-- MySQL必知必会    [蓝奏云高速下载（推荐）](https://wws.lanzoui.com/ixcrVpwwe5i)    [百度云下载链接](https://pan.baidu.com/s/1IWeqx7IQGc0sY5bJ9WtyMA)  密码:f1v9
-- MySQL技术内幕InnoDB存储引擎   [蓝奏云高速下载（推荐）](https://wws.lanzoui.com/iwWcFpwwb7c)      [百度云下载链接](https://pan.baidu.com/s/1fLL3GXn_Hp6DdEnHXcBFJQ)  密码:6g04）
+- MySQL必知必会    [蓝奏云高速下载（推荐）](https://wws.lanzoui.com/iwWcFpwwb7c)    [百度云下载链接](https://pan.baidu.com/s/1IWeqx7IQGc0sY5bJ9WtyMA)  密码:f1v9
+- MySQL技术内幕InnoDB存储引擎   [蓝奏云高速下载（推荐）](https://wws.lanzoui.com/ixcrVpwwe5i)      [百度云下载链接](https://pan.baidu.com/s/1fLL3GXn_Hp6DdEnHXcBFJQ)  密码:6g04）
 - SQL查询的艺术       [百度云下载链接](https://pan.baidu.com/s/1PfE3oLfmQN8Xtdj-08L--A)  密码:ndcv
 - SQLite 权威指南   [蓝奏云高速下载（推荐）](https://wws.lanzoui.com/icTHApwy0de)    [百度云下载链接](https://pan.baidu.com/s/1BqFp4W_I0Wwn87fKrCpB8A)  密码:ex3h
 
